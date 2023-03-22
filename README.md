@@ -11,3 +11,7 @@
 
 * Screenshot konfirmasi sebelum delete
 <img width="604" alt="Konfirmasi sebelum delete" src="https://user-images.githubusercontent.com/99643681/226784781-b4a3b82e-09ca-484f-9d3c-9e7260e66927.png">
+
+* Video Demo
+https://user-images.githubusercontent.com/99643681/226784965-979b11b7-4fbb-4d5d-b496-59cccabfc3c6.mp4
+
